@@ -1,0 +1,6 @@
+x=input("who are you?")
+y=input("how old are you?")
+z=input("what month were you born in?")
+int(y)
+print("Hello",x,", who is",y,"years old, and was born in",z,)
+print()
